@@ -69,7 +69,7 @@ Day 5: Dashboard
 ## 🚀 How to Run
 
 1. Clone repository:
-git clone https://github.com/your-username/covid-analytics.git  
+git clone https://github.com/bobby2805/covid-analytics.git  
 cd covid-analytics  
 
 2. Install dependencies:
@@ -118,8 +118,7 @@ https://covid-analytics-mb2mrtksv5xvckrfmqpsbv.streamlit.app
 ## 📧 Contact
 Name: Pannuru Kartik Reddy  
 Email: kartikreddypannuru200@gmail.com  
-GitHub: https://github.com/your-username  
-LinkedIn: https://www.linkedin.com/in/your-profile  
+GitHub: https://github.com/bobby2805 
 
 ---
 
